@@ -14,5 +14,3 @@ Implementa una solución en Java que cumpla con la lógica descrita. Usa la plan
 3. Abre `Main.java` y escribe tu solución.
 4. ¡Comparte tu solución con la comunidad!
 
----
-**Elaborado por Aritza Salazar, mail: aritza.salazar@walmart.com. Estos códigos son ejemplos para incentivar el desarrollo de la comunidad tech pero NO forman parte del stack tecnológico de Walmart. 🙂**
